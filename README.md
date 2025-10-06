@@ -31,7 +31,7 @@ Fintech-BI-Workflows/
 │── 📜 .gitignore           # Ignore unnecessary files
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Python**: Pandas, OpenPyXL, Win32Com, Requests
 - **JavaScript**: Node.js, Axios
 - **SQL**: PostgreSQL, MySQL, SQL Server
