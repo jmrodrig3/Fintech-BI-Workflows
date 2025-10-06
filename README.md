@@ -1,16 +1,16 @@
 # Fintech BI Workflows Repository
 
-## 📌 Overview
+## Overview
 This repository showcases a collection of **business intelligence (BI) automation scripts, SQL queries, and dashboard snapshots** used in **fintech and payments processing**. It includes automated solutions for **financial reporting, data extraction, and dashboard generation** to improve efficiency in data analysis.
 
-## 🚀 Key Features
+## Key Features
 - **Automated Statement Processing**: Scripts to generate and email financial statements.
 - **SQL Queries for Reporting**: Optimized SQL queries for transaction analysis, fees, and KPI reporting.
 - **BI Dashboard Snapshots**: Power BI, AWS QuickSight, and SSRS visuals for financial insights.
 - **Time Zone Handling**: Automated retrieval of time zones based on addresses.
 - **Excel & PDF Generation**: Automated data extraction, transformation, and structured reporting.
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 Fintech-BI-Workflows/
 │── 📂 dashboards/          # Power BI, AWS QuickSight, and SSRS dashboard snapshots
